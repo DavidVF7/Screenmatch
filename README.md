@@ -89,7 +89,7 @@ El proyecto cuenta con varias clases `Principal` que contienen métodos `main` p
 Para ejecutar el programa, puede utilizar la clase `Principal` correspondiente a la funcionalidad que desee probar. Por ejemplo:
 
 - `Principal`: Ejecuta ejemplos de creación y manipulación de títulos.
-- `PrincipalConBusqueda`: Realiza búsquedas de títulos en la API OMDb y guarda los resultados en un archivo JSON.
+- `PrincipalConBusqueda`: Realiza búsquedas de títulos en la API OMDb y guarda los resultados en un archivo JSON (titulos.json).
 - `PrincipalConListas`: Ejecuta ejemplos de manipulación de listas de títulos y ordenamiento.
 
 ## 👨‍💻 Desarrollado por
