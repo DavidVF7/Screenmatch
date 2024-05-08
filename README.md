@@ -3,8 +3,6 @@
 Este proyecto fue desarrollado durante los cursos de la formación en Java como parte del programa ONE de Alura Latam en colaboración con Oracle. 
 Durante el desarrollo, se exploraron conceptos avanzados de Java y se aplicaron en la creación de esta aplicación.
 
-**Video demostrativo disponible al final.**
-
 ## 📝 Descripción 
 
 Este proyecto, desarrollado en Java, utiliza los principios de la programación orientada a objetos para facilitar consulta y la gestión de toda la información de una película y/o serie por medio del de estas. 
@@ -108,6 +106,3 @@ Para ejecutar el programa, puede utilizar la clase `Principal` correspondiente a
 
 Este proyecto proporciona una base sólida para la gestión de títulos de películas y series en Java, aplicando conceptos avanzados de programación orientada a objetos y manipulación de datos. Se recomienda explorar y modificar el código para adaptarlo a sus necesidades específicas.
 
-## 🎥 ¿Cómo funciona? 
-
-[Demostración del proyecto]()
