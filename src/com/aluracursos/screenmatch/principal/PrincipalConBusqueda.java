@@ -50,11 +50,9 @@ public class PrincipalConBusqueda {
 
                 //Aquí asignamos a la variable json la respuesta del servidor
                 String json = response.body();
-                System.out.println(json);
 
                 //hacemos el cambio del JSON a clases. Y en TituloOmdb ponemos los atributos (en String porque así los recibimos)
                 TituloOmdb miTituloOmdb = gson.fromJson(json, TituloOmdb.class);
-                System.out.println(miTituloOmdb);
 
                 /*Creamos el nuevo objeto de Titulo y le creamos un constructor para que acepte directamente objetos de la clase TituloOmdb,
                 PARA QUE en ese constructor le indiquemos que title=name, year=fechaDeLanzamiento, etc.*/
