@@ -106,3 +106,15 @@ Para ejecutar el programa, puede utilizar la clase `Principal` correspondiente a
 
 Este proyecto proporciona una base sólida para la gestión de títulos de películas y series en Java, aplicando conceptos avanzados de programación orientada a objetos y manipulación de datos. Se recomienda explorar y modificar el código para adaptarlo a sus necesidades específicas.
 
+## 📸 Capturas de Pantalla
+¡Aquí tienes algunas vistas previas del proyecto!
+
+### Vista de la búsqueda
+<p align="center">
+  <img src="https://github.com/DavidVF7/Screenmatch/assets/103916971/c589dcf8-a17c-4975-a819-68a75a2666e3">
+</p>
+
+### Vista del archivo tipo JSON generado
+<p align="center">
+  <img src="https://github.com/DavidVF7/Screenmatch/assets/103916971/6a98d975-3974-4021-9e58-8a6af2ec9160">
+</p>
